@@ -1,6 +1,6 @@
 # Default values for Traefik
 image:
-  name: traefik
+  name: knovus/traefik
   tag: 2.2.1
 
 #
